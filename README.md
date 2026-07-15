@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="sailo_logo_round.webp" width="120" alt="Sailo Logo">
+<img src="sailo_icon_round.webp" width="120" alt="Sailo Logo">
 
 # Sailo
 
@@ -80,7 +80,7 @@ License information will be added soon.
   <table>
     <tr>
       <td align="center" valign="middle">
-        <img src="sailo_logo_round.webp" width="64" alt="Sailo Logo">
+        <img src="sailo_icon_round.webp" width="64" alt="Sailo Logo">
       </td>
       <td align="left" valign="middle">
         <strong>Sailo</strong><br>
